@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Sheriff702/Preview-card-component.git]
+- Live Site URL: [https://sheriff702.github.io/Preview-card-component/]
 
 ## My process
 
