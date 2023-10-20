@@ -111,7 +111,7 @@ p {
 @media (max-width: 768px) {
   .image {
     /* Ändra bildkällan till den mobila versionen */
-    content: url("/images/image-product-mobile.jpg");
+    content: url("./images/image-product-mobile.jpg");
     /* Uppdatera storleken om det behövs */
     width: 280px;
     height: 200px;
