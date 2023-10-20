@@ -117,6 +117,8 @@ p {
     height: 200px;
     border-top-right-radius: 8px;
     border-top-left-radius: 8px;
+    object-fit: fill;
+    overflow: hidden;
   }
   .container {
     flex-direction: column;
